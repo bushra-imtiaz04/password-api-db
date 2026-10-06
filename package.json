@@ -1,0 +1,13 @@
+{
+  "name": "password-api",
+  "version": "2.0.0",
+  "description": "Password Checker API with SQLite persistence (DecodeLabs Project 2 + Project 3)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
